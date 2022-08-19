@@ -1,0 +1,21 @@
+[
+    {
+        "name" : "sandisk Ultra 128GB SDX UHS-I Memory Card up to 80MB/s",
+        "price" : "45.89",
+        "description" : "Ultra-fast c",
+        "ratings" : 4.5,
+        "images" : [{
+                        "public_id" : "products/y9347927",
+                        "url" : "https://res.cloudinary.com/shopit"
+
+        }],
+        "category": "Electronics",
+        "seller" : "Ebay",
+        "stock" : 50,
+        "reviews" : []
+
+    }
+    
+
+
+]

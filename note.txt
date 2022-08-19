@@ -1,0 +1,11 @@
+setup development enviroment 
+    express
+    mongoose 
+    nodemon
+
+setup enviroment variables 
+
+
+setup product controller route for logic
+
+setup independent routs 
